@@ -1,0 +1,9 @@
+{"action":"create","object":"Teacher","data":{"id":"001","subject":"Math","salary":2345,"classroom":["CL-001","CL-002","CL-005"],"person":{"name":"Ivan","surname":"Popov","personalCode":"123422-43235"}}}
+{"action":"create","object":"Teacher","data":{"id":"0ds01","subject":"Math","salary":2345,"classroom":["CL-001","CL-002","CL-005"],"person":{"name":"Ivan","surname":"Popov","personalCode":"123422-43235"}}}
+{"action":"read","object":"Teacher","data":{"id":"001"}}
+{"action":"update","object":"Teacher","data":{"id":"001","subject":"Math","salary":2345,"classroom":["CL-001","CL-002","CL-005"],"person":{"name":"Ivan","surname":"nigga","personalCode":"123422-43235"}}}
+{"action":"delete","object":"Teacher","data":{"id":"001"}}
+{"action":"create","object":"Student","data":{"id":"1234567890","subjects":["Math","Physik"],"classroom":"CL-001","person":{"name":"Teen","surname":"Lol","personalCode":"123422-43235"}}}
+{"action":"read","object":"Student","data":{"id":"1234567890"}}
+{"action":"update","object":"Student","data":{"id":"1234567890","subjects":["Math","Sport"],"classroom":"CL-002","person":{"name":"Lol2","surname":"nigger","personalCode":"123422-43235"}}}
+{"action":"delete","object":"Student","data":{"id":"1234567890"}}
